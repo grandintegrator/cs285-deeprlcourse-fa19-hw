@@ -1,4 +1,4 @@
-# Homework Submissions for cs285-deeprlcourse-fa19-hw
+# Berkley's cs285 Deep Reinforcement Learning Course Fall 2019 Homework
 
 👋 The following files contain my homework submissions to Berkley's CS285 taught by Sergey Levine. 
 
